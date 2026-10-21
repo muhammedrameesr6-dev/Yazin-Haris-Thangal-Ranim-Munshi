@@ -1,0 +1,20 @@
+{
+  "name": "wedding-invitation",
+  "version": "1.0.0",
+  "description": "Wedding Invitation Website clone of muslimweding.vercel.app",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve . -l 3000",
+    "start": "npx serve . -l 3000",
+    "preview": "npx serve . -l 3000",
+    "serve": "npx serve .",
+    "nvp": "npx serve . -l 3000",
+    "npv": "npx serve . -l 3000"
+  },
+  "keywords": [
+    "wedding",
+    "invitation"
+  ],
+  "author": "",
+  "license": "ISC"
+}
